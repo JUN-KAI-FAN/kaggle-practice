@@ -171,10 +171,7 @@ results = model.train(
 - DICOM Medical Imaging Standards
 
 ## 👥 貢獻者
-
-- 專案開發：[您的姓名]
-- 資料處理：醫學影像專業團隊
-- 模型優化：機器學習工程師
+- 專案開發：[FAN JUN-KAI]
 
 ## 📄 授權
 
